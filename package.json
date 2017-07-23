@@ -24,10 +24,12 @@
   "homepage": "https://github.com/markbirbeck/mydesktop#readme",
   "bin": {
     "jekyll": "./node_modules/.bin/dcr-jekyll",
-    "mutt": "./node_modules/.bin/dcr-mutt"
+    "mutt": "./node_modules/.bin/dcr-mutt",
+    "s3_website": "./node_modules/.bin/dcr-s3_website"
   },
   "dependencies": {
     "dcr-jekyll": "^0.3.0",
-    "dcr-mutt": "^0.2.1"
+    "dcr-mutt": "^0.2.1",
+    "dcr-s3_website": "^0.2.0"
   }
 }
