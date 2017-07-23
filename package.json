@@ -1,6 +1,6 @@
 {
   "name": "@markbirbeck/mydesktop",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "My desktop applications, saved as an NPM package.",
   "main": "index.js",
   "scripts": {
