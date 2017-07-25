@@ -16,11 +16,11 @@ npm install -g markbirbeck/mydesktop
 Commands can then be run with, for example:
 
 ```shell
-$ dcr-mutt
+$ mutt
 ```
 
 or:
 
 ```shell
-$ dcr-jekyll serve
+$ jekyll serve
 ```
