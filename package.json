@@ -25,11 +25,13 @@
   "bin": {
     "jekyll": "./node_modules/.bin/dcr-jekyll",
     "mutt": "./node_modules/.bin/dcr-mutt",
-    "s3_website": "./node_modules/.bin/dcr-s3_website"
+    "s3_website": "./node_modules/.bin/dcr-s3_website",
+    "sully": "./node_modules/.bin/dcr-sully"
   },
   "dependencies": {
     "dcr-jekyll": "^0.4.0",
     "dcr-mutt": "^0.3.0",
-    "dcr-s3_website": "^0.3.0"
+    "dcr-s3_website": "^0.3.0",
+    "dcr-sully": "^0.1.0"
   }
 }
