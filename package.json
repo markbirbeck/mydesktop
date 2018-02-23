@@ -26,6 +26,7 @@
     "jekyll": "./node_modules/.bin/dcr-jekyll",
     "mutt": "./node_modules/.bin/dcr-mutt",
     "s3_website": "./node_modules/.bin/dcr-s3_website",
+    "sidewinder": "./node_modules/.bin/sidewinder",
     "sully": "./node_modules/.bin/dcr-sully"
   },
   "dependencies": {
